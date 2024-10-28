@@ -1,0 +1,11 @@
+model_generator:
+  model_path: data/models/
+  output_path: output/models/
+  prompt_length: 50
+  epochs: 100
+
+texture_generator:
+  texture_path: data/textures/
+  output_path: output/textures/
+  prompt_length: 50
+  epochs: 100
